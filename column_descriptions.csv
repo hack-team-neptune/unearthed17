@@ -1,4 +1,5 @@
-column, desc, unit\PPO:L-TK004_RS_12HR_SQL, TK004 Reactive Sulphur 12hrly, %
+column, desc, unit
+PPO:L-TK004_RS_12HR_SQL, TK004 Reactive Sulphur 12hrly, %
 PPO:L-TK004_RS_3HR, TK004 Reactive Sulphur 3hrly, %,,
 PPO:L-TK004_RS_3HR_SQL, TK004 Reactive Sulphur 3hrly, %,,
 PPO:L-TK004_S2_Grab, TK004 Sulphur Assay, %,,
